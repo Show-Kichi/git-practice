@@ -598,7 +598,7 @@ state.scores = scores;
       <div className="ns-cursor" style={{ left: cursorPos.x, top: cursorPos.y }} />
 
       <div className={`ns-center-text ${!showText ? "is-hidden" : ""}`}>
-        <div className="ns-main-text">you are no style</div>
+        <div className="ns-main-text">you have no style</div>
         <div className="ns-sub-text">move to begin</div>
       </div>
 

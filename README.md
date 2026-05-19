@@ -1,4 +1,4 @@
-# No Style - Behavior Analysis App
+# No Style - Interactive Personality App
 
 
 No Styleは、質問形式の性格診断ではなく、
@@ -7,7 +7,7 @@ No Styleは、質問形式の性格診断ではなく、
 
 ## 🔗 Demo
 
-https://git-practice-v3a9.vercel.app
+https://no-style-flame.vercel.app/
 
 ---
 
